@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bhola\\source\\repos\\INtern_Assignment\\OneToOne\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{341BFC4B-6019-4EDC-BDF9-9038A197C84E}|OneToOne\\OneToOne.csproj|c:\\users\\bhola\\source\\repos\\intern_assignment\\onetoone\\onetoone\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341BFC4B-6019-4EDC-BDF9-9038A197C84E}|OneToOne\\OneToOne.csproj|solutionrelative:onetoone\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341BFC4B-6019-4EDC-BDF9-9038A197C84E}|OneToOne\\OneToOne.csproj|C:\\Users\\bhola\\source\\repos\\INtern_Assignment\\OneToOne\\onetoone\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{341BFC4B-6019-4EDC-BDF9-9038A197C84E}|OneToOne\\OneToOne.csproj|solutionrelative:onetoone\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341BFC4B-6019-4EDC-BDF9-9038A197C84E}|OneToOne\\OneToOne.csproj|C:\\Users\\bhola\\source\\repos\\INtern_Assignment\\OneToOne\\onetoone\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{341BFC4B-6019-4EDC-BDF9-9038A197C84E}|OneToOne\\OneToOne.csproj|solutionrelative:onetoone\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341BFC4B-6019-4EDC-BDF9-9038A197C84E}|OneToOne\\OneToOne.csproj|C:\\Users\\bhola\\source\\repos\\INtern_Assignment\\OneToOne\\onetoone\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{341BFC4B-6019-4EDC-BDF9-9038A197C84E}|OneToOne\\OneToOne.csproj|solutionrelative:onetoone\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341BFC4B-6019-4EDC-BDF9-9038A197C84E}|OneToOne\\OneToOne.csproj|C:\\Users\\bhola\\source\\repos\\INtern_Assignment\\OneToOne\\onetoone\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{341BFC4B-6019-4EDC-BDF9-9038A197C84E}|OneToOne\\OneToOne.csproj|solutionrelative:onetoone\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341BFC4B-6019-4EDC-BDF9-9038A197C84E}|OneToOne\\OneToOne.csproj|C:\\Users\\bhola\\source\\repos\\INtern_Assignment\\OneToOne\\onetoone\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341BFC4B-6019-4EDC-BDF9-9038A197C84E}|OneToOne\\OneToOne.csproj|solutionrelative:onetoone\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341BFC4B-6019-4EDC-BDF9-9038A197C84E}|OneToOne\\OneToOne.csproj|C:\\Users\\bhola\\source\\repos\\INtern_Assignment\\OneToOne\\onetoone\\models\\user_profiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341BFC4B-6019-4EDC-BDF9-9038A197C84E}|OneToOne\\OneToOne.csproj|solutionrelative:onetoone\\models\\user_profiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\INtern_Assignment\\OneToOne\\OneToOne\\Views\\Home\\Delete.cshtml",
+              "RelativeDocumentMoniker": "OneToOne\\Views\\Home\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\INtern_Assignment\\OneToOne\\OneToOne\\Views\\Home\\Delete.cshtml",
+              "RelativeToolTip": "OneToOne\\Views\\Home\\Delete.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACMAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T09:51:37.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\INtern_Assignment\\OneToOne\\OneToOne\\Views\\Home\\Edit.cshtml",
+              "RelativeDocumentMoniker": "OneToOne\\Views\\Home\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\INtern_Assignment\\OneToOne\\OneToOne\\Views\\Home\\Edit.cshtml",
+              "RelativeToolTip": "OneToOne\\Views\\Home\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T07:29:58.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\INtern_Assignment\\OneToOne\\OneToOne\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "OneToOne\\Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\INtern_Assignment\\OneToOne\\OneToOne\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "OneToOne\\Views\\Home\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T07:16:37.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\INtern_Assignment\\OneToOne\\OneToOne\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "OneToOne\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\INtern_Assignment\\OneToOne\\OneToOne\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "OneToOne\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T06:07:08.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\INtern_Assignment\\OneToOne\\OneToOne\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "OneToOne\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\INtern_Assignment\\OneToOne\\OneToOne\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "OneToOne\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T05:46:00.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "user_profiles.cs",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\INtern_Assignment\\OneToOne\\OneToOne\\Models\\user_profiles.cs",
+              "RelativeDocumentMoniker": "OneToOne\\Models\\user_profiles.cs",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\INtern_Assignment\\OneToOne\\OneToOne\\Models\\user_profiles.cs",
+              "RelativeToolTip": "OneToOne\\Models\\user_profiles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T05:43:22.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "user.cs",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\INtern_Assignment\\OneToOne\\OneToOne\\Models\\user.cs",
+              "RelativeDocumentMoniker": "OneToOne\\Models\\user.cs",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\INtern_Assignment\\OneToOne\\OneToOne\\Models\\user.cs",
+              "RelativeToolTip": "OneToOne\\Models\\user.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T05:43:15.301Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

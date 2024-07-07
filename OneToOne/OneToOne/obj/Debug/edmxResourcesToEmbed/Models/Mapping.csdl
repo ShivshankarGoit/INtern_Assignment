@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="User_detailModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="User_detailEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="user_profiles" EntityType="User_detailModel.user_profiles" />
+    <EntitySet Name="users" EntityType="User_detailModel.user" />
+    <AssociationSet Name="FK__user_prof__user___52593CB8" Association="User_detailModel.FK__user_prof__user___52593CB8">
+      <End Role="user" EntitySet="users" />
+      <End Role="user_profiles" EntitySet="user_profiles" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="user_profiles">
+    <Key>
+      <PropertyRef Name="user_id" />
+    </Key>
+    <Property Name="user_id" Type="Int32" Nullable="false" />
+    <Property Name="profile_data" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="user" Relationship="User_detailModel.FK__user_prof__user___52593CB8" FromRole="user_profiles" ToRole="user" />
+  </EntityType>
+  <EntityType Name="user">
+    <Key>
+      <PropertyRef Name="user_id" />
+    </Key>
+    <Property Name="user_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="username" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="user_profiles" Relationship="User_detailModel.FK__user_prof__user___52593CB8" FromRole="user" ToRole="user_profiles" />
+  </EntityType>
+  <Association Name="FK__user_prof__user___52593CB8">
+    <End Type="User_detailModel.user" Role="user" Multiplicity="1" />
+    <End Type="User_detailModel.user_profiles" Role="user_profiles" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="user">
+        <PropertyRef Name="user_id" />
+      </Principal>
+      <Dependent Role="user_profiles">
+        <PropertyRef Name="user_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>
