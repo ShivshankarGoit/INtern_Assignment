@@ -1,0 +1,282 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bhola\\source\\repos\\BootStrap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A95DFD3-DE05-4812-9E57-6DBF90990F5D}|BootStrap\\BootStrap.csproj|C:\\Users\\bhola\\source\\repos\\BootStrap\\bootstrap\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A95DFD3-DE05-4812-9E57-6DBF90990F5D}|BootStrap\\BootStrap.csproj|solutionrelative:bootstrap\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A95DFD3-DE05-4812-9E57-6DBF90990F5D}|BootStrap\\BootStrap.csproj|c:\\users\\bhola\\source\\repos\\bootstrap\\bootstrap\\views\\home\\contaact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A95DFD3-DE05-4812-9E57-6DBF90990F5D}|BootStrap\\BootStrap.csproj|solutionrelative:bootstrap\\views\\home\\contaact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A95DFD3-DE05-4812-9E57-6DBF90990F5D}|BootStrap\\BootStrap.csproj|C:\\Users\\bhola\\source\\repos\\BootStrap\\bootstrap\\views\\home\\portfolio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A95DFD3-DE05-4812-9E57-6DBF90990F5D}|BootStrap\\BootStrap.csproj|solutionrelative:bootstrap\\views\\home\\portfolio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A95DFD3-DE05-4812-9E57-6DBF90990F5D}|BootStrap\\BootStrap.csproj|C:\\Users\\bhola\\source\\repos\\BootStrap\\bootstrap\\views\\home\\team.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A95DFD3-DE05-4812-9E57-6DBF90990F5D}|BootStrap\\BootStrap.csproj|solutionrelative:bootstrap\\views\\home\\team.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A95DFD3-DE05-4812-9E57-6DBF90990F5D}|BootStrap\\BootStrap.csproj|C:\\Users\\bhola\\source\\repos\\BootStrap\\bootstrap\\views\\home\\blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A95DFD3-DE05-4812-9E57-6DBF90990F5D}|BootStrap\\BootStrap.csproj|solutionrelative:bootstrap\\views\\home\\blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A95DFD3-DE05-4812-9E57-6DBF90990F5D}|BootStrap\\BootStrap.csproj|C:\\Users\\bhola\\source\\repos\\BootStrap\\bootstrap\\content\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4A95DFD3-DE05-4812-9E57-6DBF90990F5D}|BootStrap\\BootStrap.csproj|solutionrelative:bootstrap\\content\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A95DFD3-DE05-4812-9E57-6DBF90990F5D}|BootStrap\\BootStrap.csproj|C:\\Users\\bhola\\source\\repos\\BootStrap\\bootstrap\\content\\vendor\\purecounter\\purecounter_vanilla.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4A95DFD3-DE05-4812-9E57-6DBF90990F5D}|BootStrap\\BootStrap.csproj|solutionrelative:bootstrap\\content\\vendor\\purecounter\\purecounter_vanilla.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A95DFD3-DE05-4812-9E57-6DBF90990F5D}|BootStrap\\BootStrap.csproj|C:\\Users\\bhola\\source\\repos\\BootStrap\\bootstrap\\models\\boots.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A95DFD3-DE05-4812-9E57-6DBF90990F5D}|BootStrap\\BootStrap.csproj|solutionrelative:bootstrap\\models\\boots.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A95DFD3-DE05-4812-9E57-6DBF90990F5D}|BootStrap\\BootStrap.csproj|C:\\Users\\bhola\\source\\repos\\BootStrap\\bootstrap\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A95DFD3-DE05-4812-9E57-6DBF90990F5D}|BootStrap\\BootStrap.csproj|solutionrelative:bootstrap\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A95DFD3-DE05-4812-9E57-6DBF90990F5D}|BootStrap\\BootStrap.csproj|C:\\Users\\bhola\\source\\repos\\BootStrap\\bootstrap\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A95DFD3-DE05-4812-9E57-6DBF90990F5D}|BootStrap\\BootStrap.csproj|solutionrelative:bootstrap\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A95DFD3-DE05-4812-9E57-6DBF90990F5D}|BootStrap\\BootStrap.csproj|C:\\Users\\bhola\\source\\repos\\BootStrap\\bootstrap\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A95DFD3-DE05-4812-9E57-6DBF90990F5D}|BootStrap\\BootStrap.csproj|solutionrelative:bootstrap\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A95DFD3-DE05-4812-9E57-6DBF90990F5D}|BootStrap\\BootStrap.csproj|C:\\Users\\bhola\\source\\repos\\BootStrap\\bootstrap\\views\\shared\\_index_about_combineservice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A95DFD3-DE05-4812-9E57-6DBF90990F5D}|BootStrap\\BootStrap.csproj|solutionrelative:bootstrap\\views\\shared\\_index_about_combineservice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A95DFD3-DE05-4812-9E57-6DBF90990F5D}|BootStrap\\BootStrap.csproj|C:\\Users\\bhola\\source\\repos\\BootStrap\\bootstrap\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A95DFD3-DE05-4812-9E57-6DBF90990F5D}|BootStrap\\BootStrap.csproj|solutionrelative:bootstrap\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A95DFD3-DE05-4812-9E57-6DBF90990F5D}|BootStrap\\BootStrap.csproj|C:\\Users\\bhola\\source\\repos\\BootStrap\\bootstrap\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A95DFD3-DE05-4812-9E57-6DBF90990F5D}|BootStrap\\BootStrap.csproj|solutionrelative:bootstrap\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A95DFD3-DE05-4812-9E57-6DBF90990F5D}|BootStrap\\BootStrap.csproj|C:\\Users\\bhola\\source\\repos\\BootStrap\\bootstrap\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A95DFD3-DE05-4812-9E57-6DBF90990F5D}|BootStrap\\BootStrap.csproj|solutionrelative:bootstrap\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A95DFD3-DE05-4812-9E57-6DBF90990F5D}|BootStrap\\BootStrap.csproj|C:\\Users\\bhola\\source\\repos\\BootStrap\\bootstrap\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A95DFD3-DE05-4812-9E57-6DBF90990F5D}|BootStrap\\BootStrap.csproj|solutionrelative:bootstrap\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contaact.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\BootStrap\\BootStrap\\Views\\Home\\Contaact.cshtml",
+              "RelativeDocumentMoniker": "BootStrap\\Views\\Home\\Contaact.cshtml",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\BootStrap\\BootStrap\\Views\\Home\\Contaact.cshtml",
+              "RelativeToolTip": "BootStrap\\Views\\Home\\Contaact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T07:54:08.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Boots.cs",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\BootStrap\\BootStrap\\Models\\Boots.cs",
+              "RelativeDocumentMoniker": "BootStrap\\Models\\Boots.cs",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\BootStrap\\BootStrap\\Models\\Boots.cs",
+              "RelativeToolTip": "BootStrap\\Models\\Boots.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T06:44:38.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "purecounter_vanilla.js",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\BootStrap\\BootStrap\\Content\\vendor\\purecounter\\purecounter_vanilla.js",
+              "RelativeDocumentMoniker": "BootStrap\\Content\\vendor\\purecounter\\purecounter_vanilla.js",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\BootStrap\\BootStrap\\Content\\vendor\\purecounter\\purecounter_vanilla.js",
+              "RelativeToolTip": "BootStrap\\Content\\vendor\\purecounter\\purecounter_vanilla.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-26T05:12:56.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "main.js",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\BootStrap\\BootStrap\\Content\\js\\main.js",
+              "RelativeDocumentMoniker": "BootStrap\\Content\\js\\main.js",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\BootStrap\\BootStrap\\Content\\js\\main.js",
+              "RelativeToolTip": "BootStrap\\Content\\js\\main.js",
+              "ViewState": "AQIAAM4AAAAAAAAAAAA+wH8AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-26T05:07:08.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Blog.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\BootStrap\\BootStrap\\Views\\Home\\Blog.cshtml",
+              "RelativeDocumentMoniker": "BootStrap\\Views\\Home\\Blog.cshtml",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\BootStrap\\BootStrap\\Views\\Home\\Blog.cshtml",
+              "RelativeToolTip": "BootStrap\\Views\\Home\\Blog.cshtml",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAAACMAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T04:39:40.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Team.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\BootStrap\\BootStrap\\Views\\Home\\Team.cshtml",
+              "RelativeDocumentMoniker": "BootStrap\\Views\\Home\\Team.cshtml",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\BootStrap\\BootStrap\\Views\\Home\\Team.cshtml",
+              "RelativeToolTip": "BootStrap\\Views\\Home\\Team.cshtml",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAAAAMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T04:32:11.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Portfolio.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\BootStrap\\BootStrap\\Views\\Home\\Portfolio.cshtml",
+              "RelativeDocumentMoniker": "BootStrap\\Views\\Home\\Portfolio.cshtml",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\BootStrap\\BootStrap\\Views\\Home\\Portfolio.cshtml",
+              "RelativeToolTip": "BootStrap\\Views\\Home\\Portfolio.cshtml",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAAAOEAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T16:03:00.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\BootStrap\\BootStrap\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "BootStrap\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\BootStrap\\BootStrap\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "BootStrap\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAKIAAAAAAAAAAAAAAAIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T15:39:12.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\BootStrap\\BootStrap\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BootStrap\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\BootStrap\\BootStrap\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BootStrap\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T07:38:02.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\BootStrap\\BootStrap\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BootStrap\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\BootStrap\\BootStrap\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BootStrap\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAGsCAAAAAAAAAAAAAEYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T07:36:41.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\BootStrap\\BootStrap\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BootStrap\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\BootStrap\\BootStrap\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BootStrap\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA1wAMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T07:36:34.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\BootStrap\\BootStrap\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "BootStrap\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\BootStrap\\BootStrap\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "BootStrap\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAN4AAAAAAAAAAAAAABYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T05:41:34.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Index_About_CombineService.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\BootStrap\\BootStrap\\Views\\Shared\\_Index_About_CombineService.cshtml",
+              "RelativeDocumentMoniker": "BootStrap\\Views\\Shared\\_Index_About_CombineService.cshtml",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\BootStrap\\BootStrap\\Views\\Shared\\_Index_About_CombineService.cshtml",
+              "RelativeToolTip": "BootStrap\\Views\\Shared\\_Index_About_CombineService.cshtml",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAFIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T06:00:10.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Footer.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\BootStrap\\BootStrap\\Views\\Shared\\_Footer.cshtml",
+              "RelativeDocumentMoniker": "BootStrap\\Views\\Shared\\_Footer.cshtml",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\BootStrap\\BootStrap\\Views\\Shared\\_Footer.cshtml",
+              "RelativeToolTip": "BootStrap\\Views\\Shared\\_Footer.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T05:19:11.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Header.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\BootStrap\\BootStrap\\Views\\Shared\\_Header.cshtml",
+              "RelativeDocumentMoniker": "BootStrap\\Views\\Shared\\_Header.cshtml",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\BootStrap\\BootStrap\\Views\\Shared\\_Header.cshtml",
+              "RelativeToolTip": "BootStrap\\Views\\Shared\\_Header.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T11:49:37.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\BootStrap\\BootStrap\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "BootStrap\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\BootStrap\\BootStrap\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "BootStrap\\App_Start\\BundleConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T05:21:20.678Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

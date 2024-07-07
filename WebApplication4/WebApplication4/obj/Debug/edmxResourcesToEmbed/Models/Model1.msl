@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="CollageModelStoreContainer" CdmEntityContainer="CollageEntities">
+    <EntitySetMapping Name="Adminns">
+      <EntityTypeMapping TypeName="CollageModel.Adminn">
+        <MappingFragment StoreEntitySet="Adminn">
+          <ScalarProperty Name="ad_id" ColumnName="ad_id" />
+          <ScalarProperty Name="ad_name" ColumnName="ad_name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Students">
+      <EntityTypeMapping TypeName="CollageModel.Student">
+        <MappingFragment StoreEntitySet="Student">
+          <ScalarProperty Name="std_id" ColumnName="std_id" />
+          <ScalarProperty Name="std_name" ColumnName="std_name" />
+          <ScalarProperty Name="std_contact" ColumnName="std_contact" />
+          <ScalarProperty Name="std_age" ColumnName="std_age" />
+          <ScalarProperty Name="ad_id_fk" ColumnName="ad_id_fk" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

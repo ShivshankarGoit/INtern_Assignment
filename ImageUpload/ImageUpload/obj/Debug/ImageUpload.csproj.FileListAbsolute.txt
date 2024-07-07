@@ -1,0 +1,2 @@
+C:\Users\bhola\source\repos\ImageUpload\ImageUpload\obj\Debug\ImageUpload.csproj.AssemblyReference.cache
+C:\Users\bhola\source\repos\ImageUpload\ImageUpload\obj\Debug\ImageUpload.csproj.CoreCompileInputs.cache

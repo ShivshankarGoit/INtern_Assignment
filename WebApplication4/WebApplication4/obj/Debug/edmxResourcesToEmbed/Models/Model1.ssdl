@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="CollageModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Adminn">
+    <Key>
+      <PropertyRef Name="ad_id" />
+    </Key>
+    <Property Name="ad_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ad_name" Type="varchar" MaxLength="255" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Student">
+    <Key>
+      <PropertyRef Name="std_id" />
+    </Key>
+    <Property Name="std_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="std_name" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="std_contact" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="std_age" Type="varchar" MaxLength="4" Nullable="false" />
+    <Property Name="ad_id_fk" Type="int" />
+  </EntityType>
+  <Association Name="FK__Student__ad_id_f__4BAC3F29">
+    <End Role="Adminn" Type="Self.Adminn" Multiplicity="0..1" />
+    <End Role="Student" Type="Self.Student" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Adminn">
+        <PropertyRef Name="ad_id" />
+      </Principal>
+      <Dependent Role="Student">
+        <PropertyRef Name="ad_id_fk" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="CollageModelStoreContainer">
+    <EntitySet Name="Adminn" EntityType="Self.Adminn" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Student" EntityType="Self.Student" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__Student__ad_id_f__4BAC3F29" Association="Self.FK__Student__ad_id_f__4BAC3F29">
+      <End Role="Adminn" EntitySet="Adminn" />
+      <End Role="Student" EntitySet="Student" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

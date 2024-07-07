@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bhola\\source\\repos\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{377E9AFB-56F7-439E-9CF8-8EB94CEE37DF}|Project1\\Project1.csproj|c:\\users\\bhola\\source\\repos\\project1\\project1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{377E9AFB-56F7-439E-9CF8-8EB94CEE37DF}|Project1\\Project1.csproj|solutionrelative:project1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{377E9AFB-56F7-439E-9CF8-8EB94CEE37DF}|Project1\\Project1.csproj|c:\\users\\bhola\\source\\repos\\project1\\project1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{377E9AFB-56F7-439E-9CF8-8EB94CEE37DF}|Project1\\Project1.csproj|solutionrelative:project1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{377E9AFB-56F7-439E-9CF8-8EB94CEE37DF}|Project1\\Project1.csproj|c:\\users\\bhola\\source\\repos\\project1\\project1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{377E9AFB-56F7-439E-9CF8-8EB94CEE37DF}|Project1\\Project1.csproj|solutionrelative:project1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{377E9AFB-56F7-439E-9CF8-8EB94CEE37DF}|Project1\\Project1.csproj|c:\\users\\bhola\\source\\repos\\project1\\project1\\project1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{377E9AFB-56F7-439E-9CF8-8EB94CEE37DF}|Project1\\Project1.csproj|solutionrelative:project1\\project1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{377E9AFB-56F7-439E-9CF8-8EB94CEE37DF}|Project1\\Project1.csproj|c:\\users\\bhola\\source\\repos\\project1\\project1\\models\\employeedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{377E9AFB-56F7-439E-9CF8-8EB94CEE37DF}|Project1\\Project1.csproj|solutionrelative:project1\\models\\employeedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\Project1\\Project1\\Program.cs",
+              "RelativeDocumentMoniker": "Project1\\Program.cs",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\Project1\\Project1\\Program.cs",
+              "RelativeToolTip": "Project1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T07:32:32.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\Project1\\Project1\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Project1\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\Project1\\Project1\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Project1\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T05:27:44.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Project1.csproj",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\Project1\\Project1\\Project1.csproj",
+              "RelativeDocumentMoniker": "Project1\\Project1.csproj",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\Project1\\Project1\\Project1.csproj",
+              "RelativeToolTip": "Project1\\Project1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-23T05:27:03.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\Project1\\Project1\\appsettings.json",
+              "RelativeDocumentMoniker": "Project1\\appsettings.json",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\Project1\\Project1\\appsettings.json",
+              "RelativeToolTip": "Project1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-23T05:24:40.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeDetail.cs",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\Project1\\Project1\\Models\\EmployeeDetail.cs",
+              "RelativeDocumentMoniker": "Project1\\Models\\EmployeeDetail.cs",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\Project1\\Project1\\Models\\EmployeeDetail.cs",
+              "RelativeToolTip": "Project1\\Models\\EmployeeDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T05:22:08.153Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

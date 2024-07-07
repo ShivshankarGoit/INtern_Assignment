@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bhola\\source\\repos\\toUseLinqOperation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA34CE27-44D5-4269-9E3E-22530B32999E}|toUseLinqOperation\\toUseLinqOperation.csproj|c:\\users\\bhola\\source\\repos\\touselinqoperation\\touselinqoperation\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA34CE27-44D5-4269-9E3E-22530B32999E}|toUseLinqOperation\\toUseLinqOperation.csproj|solutionrelative:touselinqoperation\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA34CE27-44D5-4269-9E3E-22530B32999E}|toUseLinqOperation\\toUseLinqOperation.csproj|C:\\Users\\bhola\\source\\repos\\toUseLinqOperation\\touselinqoperation\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA34CE27-44D5-4269-9E3E-22530B32999E}|toUseLinqOperation\\toUseLinqOperation.csproj|solutionrelative:touselinqoperation\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA34CE27-44D5-4269-9E3E-22530B32999E}|toUseLinqOperation\\toUseLinqOperation.csproj|c:\\users\\bhola\\source\\repos\\touselinqoperation\\touselinqoperation\\views\\home\\checktoyscategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA34CE27-44D5-4269-9E3E-22530B32999E}|toUseLinqOperation\\toUseLinqOperation.csproj|solutionrelative:touselinqoperation\\views\\home\\checktoyscategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA34CE27-44D5-4269-9E3E-22530B32999E}|toUseLinqOperation\\toUseLinqOperation.csproj|c:\\users\\bhola\\source\\repos\\touselinqoperation\\touselinqoperation\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA34CE27-44D5-4269-9E3E-22530B32999E}|toUseLinqOperation\\toUseLinqOperation.csproj|solutionrelative:touselinqoperation\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA34CE27-44D5-4269-9E3E-22530B32999E}|toUseLinqOperation\\toUseLinqOperation.csproj|c:\\users\\bhola\\source\\repos\\touselinqoperation\\touselinqoperation\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA34CE27-44D5-4269-9E3E-22530B32999E}|toUseLinqOperation\\toUseLinqOperation.csproj|solutionrelative:touselinqoperation\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA34CE27-44D5-4269-9E3E-22530B32999E}|toUseLinqOperation\\toUseLinqOperation.csproj|c:\\users\\bhola\\source\\repos\\touselinqoperation\\touselinqoperation\\scripts\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA34CE27-44D5-4269-9E3E-22530B32999E}|toUseLinqOperation\\toUseLinqOperation.csproj|solutionrelative:touselinqoperation\\scripts\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA34CE27-44D5-4269-9E3E-22530B32999E}|toUseLinqOperation\\toUseLinqOperation.csproj|c:\\users\\bhola\\source\\repos\\touselinqoperation\\touselinqoperation\\models\\productview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA34CE27-44D5-4269-9E3E-22530B32999E}|toUseLinqOperation\\toUseLinqOperation.csproj|solutionrelative:touselinqoperation\\models\\productview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA34CE27-44D5-4269-9E3E-22530B32999E}|toUseLinqOperation\\toUseLinqOperation.csproj|C:\\Users\\bhola\\source\\repos\\toUseLinqOperation\\touselinqoperation\\models\\produc.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{EA34CE27-44D5-4269-9E3E-22530B32999E}|toUseLinqOperation\\toUseLinqOperation.csproj|solutionrelative:touselinqoperation\\models\\produc.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CheckToysCategory.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\toUseLinqOperation\\toUseLinqOperation\\Views\\Home\\CheckToysCategory.cshtml",
+              "RelativeDocumentMoniker": "toUseLinqOperation\\Views\\Home\\CheckToysCategory.cshtml",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\toUseLinqOperation\\toUseLinqOperation\\Views\\Home\\CheckToysCategory.cshtml",
+              "RelativeToolTip": "toUseLinqOperation\\Views\\Home\\CheckToysCategory.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T11:00:11.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\toUseLinqOperation\\toUseLinqOperation\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "toUseLinqOperation\\Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\toUseLinqOperation\\toUseLinqOperation\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "toUseLinqOperation\\Views\\Home\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T10:21:21.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\toUseLinqOperation\\toUseLinqOperation\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "toUseLinqOperation\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\toUseLinqOperation\\toUseLinqOperation\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "toUseLinqOperation\\Views\\Home\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T09:46:51.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\toUseLinqOperation\\toUseLinqOperation\\Scripts\\ProductService.cs",
+              "RelativeDocumentMoniker": "toUseLinqOperation\\Scripts\\ProductService.cs",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\toUseLinqOperation\\toUseLinqOperation\\Scripts\\ProductService.cs",
+              "RelativeToolTip": "toUseLinqOperation\\Scripts\\ProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T08:56:35.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductView.cs",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\toUseLinqOperation\\toUseLinqOperation\\Models\\ProductView.cs",
+              "RelativeDocumentMoniker": "toUseLinqOperation\\Models\\ProductView.cs",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\toUseLinqOperation\\toUseLinqOperation\\Models\\ProductView.cs",
+              "RelativeToolTip": "toUseLinqOperation\\Models\\ProductView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T08:50:27.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Produc.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\toUseLinqOperation\\toUseLinqOperation\\Models\\Produc.edmx",
+              "RelativeDocumentMoniker": "toUseLinqOperation\\Models\\Produc.edmx",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\toUseLinqOperation\\toUseLinqOperation\\Models\\Produc.edmx [Diagram1]",
+              "RelativeToolTip": "toUseLinqOperation\\Models\\Produc.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-07-02T07:24:06.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\toUseLinqOperation\\toUseLinqOperation\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "toUseLinqOperation\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\toUseLinqOperation\\toUseLinqOperation\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "toUseLinqOperation\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T06:19:13.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\toUseLinqOperation\\toUseLinqOperation\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "toUseLinqOperation\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\toUseLinqOperation\\toUseLinqOperation\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "toUseLinqOperation\\Controllers\\HomeController.cs*",
+              "ViewState": "AQIAAAkAAAAAAAAAAADwvx8AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T06:08:35.776Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

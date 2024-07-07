@@ -1,0 +1,2 @@
+C:\Users\bhola\source\repos\WebApplication4\WebApplication4\obj\Debug\WebApplication4.csproj.AssemblyReference.cache
+C:\Users\bhola\source\repos\WebApplication4\WebApplication4\obj\Debug\WebApplication4.csproj.CoreCompileInputs.cache

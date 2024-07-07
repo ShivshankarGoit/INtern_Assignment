@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bhola\\source\\repos\\Imagggg\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51FFDAEE-DB49-4C11-8A4E-CEA1CB02519E}|Imagggg\\Imagggg.csproj|c:\\users\\bhola\\source\\repos\\imagggg\\imagggg\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{51FFDAEE-DB49-4C11-8A4E-CEA1CB02519E}|Imagggg\\Imagggg.csproj|solutionrelative:imagggg\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FFDAEE-DB49-4C11-8A4E-CEA1CB02519E}|Imagggg\\Imagggg.csproj|c:\\users\\bhola\\source\\repos\\imagggg\\imagggg\\models\\imageuploadmod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FFDAEE-DB49-4C11-8A4E-CEA1CB02519E}|Imagggg\\Imagggg.csproj|solutionrelative:imagggg\\models\\imageuploadmod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\Imagggg\\Imagggg\\Web.config",
+              "RelativeDocumentMoniker": "Imagggg\\Web.config",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\Imagggg\\Imagggg\\Web.config*",
+              "RelativeToolTip": "Imagggg\\Web.config*",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-27T05:53:17.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ImageUploadMod.cs",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\Imagggg\\Imagggg\\Models\\ImageUploadMod.cs",
+              "RelativeDocumentMoniker": "Imagggg\\Models\\ImageUploadMod.cs",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\Imagggg\\Imagggg\\Models\\ImageUploadMod.cs*",
+              "RelativeToolTip": "Imagggg\\Models\\ImageUploadMod.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T05:52:29.052Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

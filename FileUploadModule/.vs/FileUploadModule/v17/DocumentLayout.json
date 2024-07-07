@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bhola\\source\\repos\\FileUploadModule\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5091FE72-63F5-4BFC-AACA-B06D992E2C59}|FileUploadModule\\FileUploadModule.csproj|c:\\users\\bhola\\source\\repos\\fileuploadmodule\\fileuploadmodule\\models\\uploadfile.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{5091FE72-63F5-4BFC-AACA-B06D992E2C59}|FileUploadModule\\FileUploadModule.csproj|solutionrelative:fileuploadmodule\\models\\uploadfile.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5091FE72-63F5-4BFC-AACA-B06D992E2C59}|FileUploadModule\\FileUploadModule.csproj|c:\\users\\bhola\\source\\repos\\fileuploadmodule\\fileuploadmodule\\controllers\\uploadfilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5091FE72-63F5-4BFC-AACA-B06D992E2C59}|FileUploadModule\\FileUploadModule.csproj|solutionrelative:fileuploadmodule\\controllers\\uploadfilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5091FE72-63F5-4BFC-AACA-B06D992E2C59}|FileUploadModule\\FileUploadModule.csproj|c:\\users\\bhola\\source\\repos\\fileuploadmodule\\fileuploadmodule\\views\\uploadfile\\upload.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5091FE72-63F5-4BFC-AACA-B06D992E2C59}|FileUploadModule\\FileUploadModule.csproj|solutionrelative:fileuploadmodule\\views\\uploadfile\\upload.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UploadFile.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\FileUploadModule\\FileUploadModule\\Models\\UploadFile.edmx",
+              "RelativeDocumentMoniker": "FileUploadModule\\Models\\UploadFile.edmx",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\FileUploadModule\\FileUploadModule\\Models\\UploadFile.edmx [Diagram1]",
+              "RelativeToolTip": "FileUploadModule\\Models\\UploadFile.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-06-26T10:52:03.21Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Upload.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\FileUploadModule\\FileUploadModule\\Views\\UploadFile\\Upload.cshtml",
+              "RelativeDocumentMoniker": "FileUploadModule\\Views\\UploadFile\\Upload.cshtml",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\FileUploadModule\\FileUploadModule\\Views\\UploadFile\\Upload.cshtml",
+              "RelativeToolTip": "FileUploadModule\\Views\\UploadFile\\Upload.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T10:37:11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UploadFileController.cs",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\FileUploadModule\\FileUploadModule\\Controllers\\UploadFileController.cs",
+              "RelativeDocumentMoniker": "FileUploadModule\\Controllers\\UploadFileController.cs",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\FileUploadModule\\FileUploadModule\\Controllers\\UploadFileController.cs",
+              "RelativeToolTip": "FileUploadModule\\Controllers\\UploadFileController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:34:55.996Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+@using (Html.BeginForm("Upload", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    @Html.AntiForgeryToken()
+    <input type="file" name="file" />
+    <input type="submit" value="Upload" />
+}
+
+@model IEnumerable<FileUploadPurpose.Models.Employee>
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<h2>Image Gallery</h2>
+<ul>
+    @foreach (var image in Model)
+    {
+        <li>
+            <img src="@Url.Action("GetImage", "Home", new { id = File.id })" alt="@image.ImageName" style="width:200px;height:auto;" />
+            <p>@image.ImageName</p>
+        </li>
+    }
+</ul>

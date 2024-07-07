@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bhola\\source\\repos\\WebApplication12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF53648D-BDB8-455F-9AD3-8662C31604F9}|WebApplication12\\WebApplication12.csproj|C:\\Users\\bhola\\source\\repos\\WebApplication12\\webapplication12\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF53648D-BDB8-455F-9AD3-8662C31604F9}|WebApplication12\\WebApplication12.csproj|solutionrelative:webapplication12\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF53648D-BDB8-455F-9AD3-8662C31604F9}|WebApplication12\\WebApplication12.csproj|C:\\Users\\bhola\\source\\repos\\WebApplication12\\webapplication12\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF53648D-BDB8-455F-9AD3-8662C31604F9}|WebApplication12\\WebApplication12.csproj|solutionrelative:webapplication12\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF53648D-BDB8-455F-9AD3-8662C31604F9}|WebApplication12\\WebApplication12.csproj|c:\\users\\bhola\\source\\repos\\webapplication12\\webapplication12\\views\\employee\\test.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF53648D-BDB8-455F-9AD3-8662C31604F9}|WebApplication12\\WebApplication12.csproj|solutionrelative:webapplication12\\views\\employee\\test.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF53648D-BDB8-455F-9AD3-8662C31604F9}|WebApplication12\\WebApplication12.csproj|C:\\Users\\bhola\\source\\repos\\WebApplication12\\webapplication12\\models\\employeemodal.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF53648D-BDB8-455F-9AD3-8662C31604F9}|WebApplication12\\WebApplication12.csproj|solutionrelative:webapplication12\\models\\employeemodal.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF53648D-BDB8-455F-9AD3-8662C31604F9}|WebApplication12\\WebApplication12.csproj|C:\\Users\\bhola\\source\\repos\\WebApplication12\\webapplication12\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF53648D-BDB8-455F-9AD3-8662C31604F9}|WebApplication12\\WebApplication12.csproj|solutionrelative:webapplication12\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF53648D-BDB8-455F-9AD3-8662C31604F9}|WebApplication12\\WebApplication12.csproj|C:\\Users\\bhola\\source\\repos\\WebApplication12\\webapplication12\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF53648D-BDB8-455F-9AD3-8662C31604F9}|WebApplication12\\WebApplication12.csproj|solutionrelative:webapplication12\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF53648D-BDB8-455F-9AD3-8662C31604F9}|WebApplication12\\WebApplication12.csproj|C:\\Users\\bhola\\source\\repos\\WebApplication12\\webapplication12\\models\\employeedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF53648D-BDB8-455F-9AD3-8662C31604F9}|WebApplication12\\WebApplication12.csproj|solutionrelative:webapplication12\\models\\employeedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF53648D-BDB8-455F-9AD3-8662C31604F9}|WebApplication12\\WebApplication12.csproj|C:\\Users\\bhola\\source\\repos\\WebApplication12\\webapplication12\\models\\employeemodal.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{BF53648D-BDB8-455F-9AD3-8662C31604F9}|WebApplication12\\WebApplication12.csproj|solutionrelative:webapplication12\\models\\employeemodal.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF53648D-BDB8-455F-9AD3-8662C31604F9}|WebApplication12\\WebApplication12.csproj|C:\\Users\\bhola\\source\\repos\\WebApplication12\\webapplication12\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF53648D-BDB8-455F-9AD3-8662C31604F9}|WebApplication12\\WebApplication12.csproj|solutionrelative:webapplication12\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeDetail.cs",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\WebApplication12\\WebApplication12\\Models\\EmployeeDetail.cs",
+              "RelativeDocumentMoniker": "WebApplication12\\Models\\EmployeeDetail.cs",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\WebApplication12\\WebApplication12\\Models\\EmployeeDetail.cs",
+              "RelativeToolTip": "WebApplication12\\Models\\EmployeeDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T11:59:40.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "create.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\WebApplication12\\WebApplication12\\Views\\Employee\\create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication12\\Views\\Employee\\create.cshtml",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\WebApplication12\\WebApplication12\\Views\\Employee\\create.cshtml",
+              "RelativeToolTip": "WebApplication12\\Views\\Employee\\create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T09:54:25.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\WebApplication12\\WebApplication12\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication12\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\WebApplication12\\WebApplication12\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication12\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T09:25:21.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeModal.Context.cs",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\WebApplication12\\WebApplication12\\Models\\EmployeeModal.Context.cs",
+              "RelativeDocumentMoniker": "WebApplication12\\Models\\EmployeeModal.Context.cs",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\WebApplication12\\WebApplication12\\Models\\EmployeeModal.Context.cs",
+              "RelativeToolTip": "WebApplication12\\Models\\EmployeeModal.Context.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAApwBIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T08:24:03.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Test.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\WebApplication12\\WebApplication12\\Views\\Employee\\Test.cshtml",
+              "RelativeDocumentMoniker": "WebApplication12\\Views\\Employee\\Test.cshtml",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\WebApplication12\\WebApplication12\\Views\\Employee\\Test.cshtml",
+              "RelativeToolTip": "WebApplication12\\Views\\Employee\\Test.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T08:01:44.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\WebApplication12\\WebApplication12\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication12\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\WebApplication12\\WebApplication12\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "WebApplication12\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T06:52:17.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\WebApplication12\\WebApplication12\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "WebApplication12\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\WebApplication12\\WebApplication12\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "WebApplication12\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T06:49:52.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\WebApplication12\\WebApplication12\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "WebApplication12\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\WebApplication12\\WebApplication12\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "WebApplication12\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwCYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T06:45:23.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeModal.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\WebApplication12\\WebApplication12\\Models\\EmployeeModal.edmx",
+              "RelativeDocumentMoniker": "WebApplication12\\Models\\EmployeeModal.edmx",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\WebApplication12\\WebApplication12\\Models\\EmployeeModal.edmx [Diagram1]",
+              "RelativeToolTip": "WebApplication12\\Models\\EmployeeModal.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-06-23T06:42:50.107Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

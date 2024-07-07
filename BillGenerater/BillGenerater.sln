@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BillGenerater", "BillGenerater\BillGenerater.csproj", "{7BAB437C-4EC1-43F7-9992-2820A341587B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BAB437C-4EC1-43F7-9992-2820A341587B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BAB437C-4EC1-43F7-9992-2820A341587B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BAB437C-4EC1-43F7-9992-2820A341587B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BAB437C-4EC1-43F7-9992-2820A341587B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB29B0AC-43B7-4792-AD15-DE34BC7CF66F}
+	EndGlobalSection
+EndGlobal

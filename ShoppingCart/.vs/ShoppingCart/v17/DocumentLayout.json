@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bhola\\source\\repos\\ShoppingCart\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B308C41-6DB5-47FA-8C06-71E915D722DF}|ShoppingCart\\ShoppingCart.csproj|c:\\users\\bhola\\source\\repos\\shoppingcart\\shoppingcart\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B308C41-6DB5-47FA-8C06-71E915D722DF}|ShoppingCart\\ShoppingCart.csproj|solutionrelative:shoppingcart\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B308C41-6DB5-47FA-8C06-71E915D722DF}|ShoppingCart\\ShoppingCart.csproj|c:\\users\\bhola\\source\\repos\\shoppingcart\\shoppingcart\\shoppingcart.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9B308C41-6DB5-47FA-8C06-71E915D722DF}|ShoppingCart\\ShoppingCart.csproj|solutionrelative:shoppingcart\\shoppingcart.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bhola\\source\\repos\\ShoppingCart\\ShoppingCart\\Migrations\\20240519033842_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ShoppingCart\\Migrations\\20240519033842_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B308C41-6DB5-47FA-8C06-71E915D722DF}|ShoppingCart\\ShoppingCart.csproj|c:\\users\\bhola\\source\\repos\\shoppingcart\\shoppingcart\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9B308C41-6DB5-47FA-8C06-71E915D722DF}|ShoppingCart\\ShoppingCart.csproj|solutionrelative:shoppingcart\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B308C41-6DB5-47FA-8C06-71E915D722DF}|ShoppingCart\\ShoppingCart.csproj|c:\\users\\bhola\\source\\repos\\shoppingcart\\shoppingcart\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B308C41-6DB5-47FA-8C06-71E915D722DF}|ShoppingCart\\ShoppingCart.csproj|solutionrelative:shoppingcart\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B308C41-6DB5-47FA-8C06-71E915D722DF}|ShoppingCart\\ShoppingCart.csproj|c:\\users\\bhola\\source\\repos\\shoppingcart\\shoppingcart\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B308C41-6DB5-47FA-8C06-71E915D722DF}|ShoppingCart\\ShoppingCart.csproj|solutionrelative:shoppingcart\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B308C41-6DB5-47FA-8C06-71E915D722DF}|ShoppingCart\\ShoppingCart.csproj|c:\\users\\bhola\\source\\repos\\shoppingcart\\shoppingcart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B308C41-6DB5-47FA-8C06-71E915D722DF}|ShoppingCart\\ShoppingCart.csproj|solutionrelative:shoppingcart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B308C41-6DB5-47FA-8C06-71E915D722DF}|ShoppingCart\\ShoppingCart.csproj|c:\\users\\bhola\\source\\repos\\shoppingcart\\shoppingcart\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9B308C41-6DB5-47FA-8C06-71E915D722DF}|ShoppingCart\\ShoppingCart.csproj|solutionrelative:shoppingcart\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240519033842_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\ShoppingCart\\ShoppingCart\\Migrations\\20240519033842_Initial.cs",
+              "RelativeDocumentMoniker": "ShoppingCart\\Migrations\\20240519033842_Initial.cs",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\ShoppingCart\\ShoppingCart\\Migrations\\20240519033842_Initial.cs",
+              "RelativeToolTip": "ShoppingCart\\Migrations\\20240519033842_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T03:38:43.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\ShoppingCart\\ShoppingCart\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "ShoppingCart\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\ShoppingCart\\ShoppingCart\\Models\\Category.cs",
+              "RelativeToolTip": "ShoppingCart\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T02:55:43.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\ShoppingCart\\ShoppingCart\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ShoppingCart\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\ShoppingCart\\ShoppingCart\\Models\\Product.cs",
+              "RelativeToolTip": "ShoppingCart\\Models\\Product.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAqwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T02:50:50.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShoppingCart.csproj",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\ShoppingCart\\ShoppingCart\\ShoppingCart.csproj",
+              "RelativeDocumentMoniker": "ShoppingCart\\ShoppingCart.csproj",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\ShoppingCart\\ShoppingCart\\ShoppingCart.csproj",
+              "RelativeToolTip": "ShoppingCart\\ShoppingCart.csproj",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-18T13:00:01.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\ShoppingCart\\ShoppingCart\\Program.cs",
+              "RelativeDocumentMoniker": "ShoppingCart\\Program.cs",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\ShoppingCart\\ShoppingCart\\Program.cs",
+              "RelativeToolTip": "ShoppingCart\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T02:46:26.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\ShoppingCart\\ShoppingCart\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ShoppingCart\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\ShoppingCart\\ShoppingCart\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ShoppingCart\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T13:11:47.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\ShoppingCart\\ShoppingCart\\appsettings.json",
+              "RelativeDocumentMoniker": "ShoppingCart\\appsettings.json",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\ShoppingCart\\ShoppingCart\\appsettings.json",
+              "RelativeToolTip": "ShoppingCart\\appsettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-18T13:05:32.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\ShoppingCart\\ShoppingCart\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ShoppingCart\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\ShoppingCart\\ShoppingCart\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ShoppingCart\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-18T13:08:20.839Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
