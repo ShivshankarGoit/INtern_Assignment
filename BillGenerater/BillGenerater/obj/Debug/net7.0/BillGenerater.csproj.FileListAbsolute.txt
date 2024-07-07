@@ -1,9 +1,0 @@
-C:\Users\bhola\source\repos\BillGenerater\BillGenerater\obj\Debug\net7.0\BillGenerater.csproj.AssemblyReference.cache
-C:\Users\bhola\source\repos\BillGenerater\BillGenerater\obj\Debug\net7.0\BillGenerater.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\bhola\source\repos\BillGenerater\BillGenerater\obj\Debug\net7.0\BillGenerater.AssemblyInfoInputs.cache
-C:\Users\bhola\source\repos\BillGenerater\BillGenerater\obj\Debug\net7.0\BillGenerater.AssemblyInfo.cs
-C:\Users\bhola\source\repos\BillGenerater\BillGenerater\obj\Debug\net7.0\BillGenerater.csproj.CoreCompileInputs.cache
-C:\Users\bhola\source\repos\BillGenerater\BillGenerater\obj\Debug\net7.0\BillGenerater.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\bhola\source\repos\BillGenerater\BillGenerater\obj\Debug\net7.0\BillGenerater.RazorAssemblyInfo.cache
-C:\Users\bhola\source\repos\BillGenerater\BillGenerater\obj\Debug\net7.0\BillGenerater.RazorAssemblyInfo.cs
-C:\Users\bhola\source\repos\BillGenerater\BillGenerater\obj\Debug\net7.0\BillGenerater.sourcelink.json
