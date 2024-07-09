@@ -1,7 +1,40 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\bhola\\source\\repos\\CrudOperationInJquary\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF4E68E-6B31-4BDD-82C8-F32A1311E0AA}|CrudOperationInJquary\\CrudOperationInJquary.csproj|C:\\Users\\bhola\\source\\repos\\CrudOperationInJquary\\crudoperationinjquary\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BF4E68E-6B31-4BDD-82C8-F32A1311E0AA}|CrudOperationInJquary\\CrudOperationInJquary.csproj|solutionrelative:crudoperationinjquary\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF4E68E-6B31-4BDD-82C8-F32A1311E0AA}|CrudOperationInJquary\\CrudOperationInJquary.csproj|c:\\users\\bhola\\source\\repos\\crudoperationinjquary\\crudoperationinjquary\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BF4E68E-6B31-4BDD-82C8-F32A1311E0AA}|CrudOperationInJquary\\CrudOperationInJquary.csproj|solutionrelative:crudoperationinjquary\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF4E68E-6B31-4BDD-82C8-F32A1311E0AA}|CrudOperationInJquary\\CrudOperationInJquary.csproj|C:\\Users\\bhola\\source\\repos\\CrudOperationInJquary\\crudoperationinjquary\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BF4E68E-6B31-4BDD-82C8-F32A1311E0AA}|CrudOperationInJquary\\CrudOperationInJquary.csproj|solutionrelative:crudoperationinjquary\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF4E68E-6B31-4BDD-82C8-F32A1311E0AA}|CrudOperationInJquary\\CrudOperationInJquary.csproj|C:\\Users\\bhola\\source\\repos\\CrudOperationInJquary\\crudoperationinjquary\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BF4E68E-6B31-4BDD-82C8-F32A1311E0AA}|CrudOperationInJquary\\CrudOperationInJquary.csproj|solutionrelative:crudoperationinjquary\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF4E68E-6B31-4BDD-82C8-F32A1311E0AA}|CrudOperationInJquary\\CrudOperationInJquary.csproj|C:\\Users\\bhola\\source\\repos\\CrudOperationInJquary\\crudoperationinjquary\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BF4E68E-6B31-4BDD-82C8-F32A1311E0AA}|CrudOperationInJquary\\CrudOperationInJquary.csproj|solutionrelative:crudoperationinjquary\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF4E68E-6B31-4BDD-82C8-F32A1311E0AA}|CrudOperationInJquary\\CrudOperationInJquary.csproj|C:\\Users\\bhola\\source\\repos\\CrudOperationInJquary\\crudoperationinjquary\\scripts\\employee.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}|",
+      "RelativeMoniker": "D:0:0:{5BF4E68E-6B31-4BDD-82C8-F32A1311E0AA}|CrudOperationInJquary\\CrudOperationInJquary.csproj|solutionrelative:crudoperationinjquary\\scripts\\employee.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF4E68E-6B31-4BDD-82C8-F32A1311E0AA}|CrudOperationInJquary\\CrudOperationInJquary.csproj|C:\\Users\\bhola\\source\\repos\\CrudOperationInJquary\\crudoperationinjquary\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BF4E68E-6B31-4BDD-82C8-F32A1311E0AA}|CrudOperationInJquary\\CrudOperationInJquary.csproj|solutionrelative:crudoperationinjquary\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF4E68E-6B31-4BDD-82C8-F32A1311E0AA}|CrudOperationInJquary\\CrudOperationInJquary.csproj|C:\\Users\\bhola\\source\\repos\\CrudOperationInJquary\\crudoperationinjquary\\scripts\\bootstrap.bundle.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5BF4E68E-6B31-4BDD-82C8-F32A1311E0AA}|CrudOperationInJquary\\CrudOperationInJquary.csproj|solutionrelative:crudoperationinjquary\\scripts\\bootstrap.bundle.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,21 +42,110 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\CrudOperationInJquary\\CrudOperationInJquary\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "CrudOperationInJquary\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\CrudOperationInJquary\\CrudOperationInJquary\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "CrudOperationInJquary\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T07:19:16.893Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": -1,
-          "Children": [
+            },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.js",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\CrudOperationInJquary\\CrudOperationInJquary\\Scripts\\Employee.js",
+              "RelativeDocumentMoniker": "CrudOperationInJquary\\Scripts\\Employee.js",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\CrudOperationInJquary\\CrudOperationInJquary\\Scripts\\Employee.js",
+              "RelativeToolTip": "CrudOperationInJquary\\Scripts\\Employee.js",
+              "ViewState": "AQIAAJAAAAAAAAAAAAA+wAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-08T10:13:28.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\CrudOperationInJquary\\CrudOperationInJquary\\Views\\Employee\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CrudOperationInJquary\\Views\\Employee\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\CrudOperationInJquary\\CrudOperationInJquary\\Views\\Employee\\Edit.cshtml",
+              "RelativeToolTip": "CrudOperationInJquary\\Views\\Employee\\Edit.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAnwDgAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T08:23:10.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\CrudOperationInJquary\\CrudOperationInJquary\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "CrudOperationInJquary\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\CrudOperationInJquary\\CrudOperationInJquary\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "CrudOperationInJquary\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAawCwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T07:40:15.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "bootstrap.bundle.js",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\CrudOperationInJquary\\CrudOperationInJquary\\Scripts\\bootstrap.bundle.js",
+              "RelativeDocumentMoniker": "CrudOperationInJquary\\Scripts\\bootstrap.bundle.js",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\CrudOperationInJquary\\CrudOperationInJquary\\Scripts\\bootstrap.bundle.js",
+              "RelativeToolTip": "CrudOperationInJquary\\Scripts\\bootstrap.bundle.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-08T06:03:32.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\CrudOperationInJquary\\CrudOperationInJquary\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CrudOperationInJquary\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\CrudOperationInJquary\\CrudOperationInJquary\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CrudOperationInJquary\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T05:46:29.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\CrudOperationInJquary\\CrudOperationInJquary\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "CrudOperationInJquary\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\CrudOperationInJquary\\CrudOperationInJquary\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "CrudOperationInJquary\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAiwBIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T05:38:03.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\CrudOperationInJquary\\CrudOperationInJquary\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "CrudOperationInJquary\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\CrudOperationInJquary\\CrudOperationInJquary\\Models\\Employee.cs",
+              "RelativeToolTip": "CrudOperationInJquary\\Models\\Employee.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAmwA4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T05:14:51.368Z"
             }
           ]
         }

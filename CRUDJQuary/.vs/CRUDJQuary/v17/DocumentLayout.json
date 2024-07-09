@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bhola\\source\\repos\\CRUDJQuary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40BDE9E5-A9DA-43B3-8A31-B22AF4C1F6F8}|CRUDJQuary\\CRUDJQuary.csproj|c:\\users\\bhola\\source\\repos\\crudjquary\\crudjquary\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40BDE9E5-A9DA-43B3-8A31-B22AF4C1F6F8}|CRUDJQuary\\CRUDJQuary.csproj|solutionrelative:crudjquary\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40BDE9E5-A9DA-43B3-8A31-B22AF4C1F6F8}|CRUDJQuary\\CRUDJQuary.csproj|C:\\Users\\bhola\\source\\repos\\CRUDJQuary\\crudjquary\\views\\home\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40BDE9E5-A9DA-43B3-8A31-B22AF4C1F6F8}|CRUDJQuary\\CRUDJQuary.csproj|solutionrelative:crudjquary\\views\\home\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40BDE9E5-A9DA-43B3-8A31-B22AF4C1F6F8}|CRUDJQuary\\CRUDJQuary.csproj|C:\\Users\\bhola\\source\\repos\\CRUDJQuary\\crudjquary\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40BDE9E5-A9DA-43B3-8A31-B22AF4C1F6F8}|CRUDJQuary\\CRUDJQuary.csproj|solutionrelative:crudjquary\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40BDE9E5-A9DA-43B3-8A31-B22AF4C1F6F8}|CRUDJQuary\\CRUDJQuary.csproj|C:\\Users\\bhola\\source\\repos\\CRUDJQuary\\crudjquary\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40BDE9E5-A9DA-43B3-8A31-B22AF4C1F6F8}|CRUDJQuary\\CRUDJQuary.csproj|solutionrelative:crudjquary\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40BDE9E5-A9DA-43B3-8A31-B22AF4C1F6F8}|CRUDJQuary\\CRUDJQuary.csproj|C:\\Users\\bhola\\source\\repos\\CRUDJQuary\\crudjquary\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40BDE9E5-A9DA-43B3-8A31-B22AF4C1F6F8}|CRUDJQuary\\CRUDJQuary.csproj|solutionrelative:crudjquary\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40BDE9E5-A9DA-43B3-8A31-B22AF4C1F6F8}|CRUDJQuary\\CRUDJQuary.csproj|C:\\Users\\bhola\\source\\repos\\CRUDJQuary\\crudjquary\\scripts\\users.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{40BDE9E5-A9DA-43B3-8A31-B22AF4C1F6F8}|CRUDJQuary\\CRUDJQuary.csproj|solutionrelative:crudjquary\\scripts\\users.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40BDE9E5-A9DA-43B3-8A31-B22AF4C1F6F8}|CRUDJQuary\\CRUDJQuary.csproj|C:\\Users\\bhola\\source\\repos\\CRUDJQuary\\crudjquary\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40BDE9E5-A9DA-43B3-8A31-B22AF4C1F6F8}|CRUDJQuary\\CRUDJQuary.csproj|solutionrelative:crudjquary\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40BDE9E5-A9DA-43B3-8A31-B22AF4C1F6F8}|CRUDJQuary\\CRUDJQuary.csproj|C:\\Users\\bhola\\source\\repos\\CRUDJQuary\\crudjquary\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{40BDE9E5-A9DA-43B3-8A31-B22AF4C1F6F8}|CRUDJQuary\\CRUDJQuary.csproj|solutionrelative:crudjquary\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\CRUDJQuary\\CRUDJQuary\\Views\\Home\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CRUDJQuary\\Views\\Home\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\CRUDJQuary\\CRUDJQuary\\Views\\Home\\Delete.cshtml",
+              "RelativeToolTip": "CRUDJQuary\\Views\\Home\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T04:38:04.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\CRUDJQuary\\CRUDJQuary\\Views\\Home\\Update.cshtml",
+              "RelativeDocumentMoniker": "CRUDJQuary\\Views\\Home\\Update.cshtml",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\CRUDJQuary\\CRUDJQuary\\Views\\Home\\Update.cshtml",
+              "RelativeToolTip": "CRUDJQuary\\Views\\Home\\Update.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAADoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T11:51:08.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\CRUDJQuary\\CRUDJQuary\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "CRUDJQuary\\Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\CRUDJQuary\\CRUDJQuary\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "CRUDJQuary\\Views\\Home\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T11:43:50.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Users.js",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\CRUDJQuary\\CRUDJQuary\\Scripts\\Users.js",
+              "RelativeDocumentMoniker": "CRUDJQuary\\Scripts\\Users.js",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\CRUDJQuary\\CRUDJQuary\\Scripts\\Users.js",
+              "RelativeToolTip": "CRUDJQuary\\Scripts\\Users.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-08T11:26:02.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\CRUDJQuary\\CRUDJQuary\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRUDJQuary\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\CRUDJQuary\\CRUDJQuary\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CRUDJQuary\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBJwB8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T11:19:02.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\CRUDJQuary\\CRUDJQuary\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CRUDJQuary\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\CRUDJQuary\\CRUDJQuary\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CRUDJQuary\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T11:10:14.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\CRUDJQuary\\CRUDJQuary\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CRUDJQuary\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\CRUDJQuary\\CRUDJQuary\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CRUDJQuary\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T11:05:02.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\CRUDJQuary\\CRUDJQuary\\Models\\Model1.edmx",
+              "RelativeDocumentMoniker": "CRUDJQuary\\Models\\Model1.edmx",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\CRUDJQuary\\CRUDJQuary\\Models\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "CRUDJQuary\\Models\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-07-08T11:03:40.656Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
