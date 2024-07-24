@@ -2,7 +2,7 @@
     ViewBag.Title = "Home Page";
 }
 
-@using (Html.BeginForm("Upload", "UploadFile", FormMethod.Post, new { enctype = "multipart/form-data" }))
+@using (Html.BeginForm("Upload", "Upload", FormMethod.Post, new { enctype = "multipart/form-data" }))
 {
     @Html.AntiForgeryToken()
     <input type="file" name="file" />

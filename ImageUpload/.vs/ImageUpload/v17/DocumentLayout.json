@@ -3,23 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\bhola\\source\\repos\\ImageUpload\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3D2E7EF5-7F75-47F6-890C-DB5A21E7B5BB}|ImageUpload\\ImageUpload.csproj|C:\\Users\\bhola\\source\\repos\\ImageUpload\\imageupload\\controllers\\imguploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D2E7EF5-7F75-47F6-890C-DB5A21E7B5BB}|ImageUpload\\ImageUpload.csproj|solutionrelative:imageupload\\controllers\\imguploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3D2E7EF5-7F75-47F6-890C-DB5A21E7B5BB}|ImageUpload\\ImageUpload.csproj|c:\\users\\bhola\\source\\repos\\imageupload\\imageupload\\models\\imageupload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D2E7EF5-7F75-47F6-890C-DB5A21E7B5BB}|ImageUpload\\ImageUpload.csproj|solutionrelative:imageupload\\models\\imageupload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D2E7EF5-7F75-47F6-890C-DB5A21E7B5BB}|ImageUpload\\ImageUpload.csproj|c:\\users\\bhola\\source\\repos\\imageupload\\imageupload\\models\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D2E7EF5-7F75-47F6-890C-DB5A21E7B5BB}|ImageUpload\\ImageUpload.csproj|C:\\Users\\bhola\\source\\repos\\ImageUpload\\imageupload\\models\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D2E7EF5-7F75-47F6-890C-DB5A21E7B5BB}|ImageUpload\\ImageUpload.csproj|solutionrelative:imageupload\\models\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D2E7EF5-7F75-47F6-890C-DB5A21E7B5BB}|ImageUpload\\ImageUpload.csproj|c:\\users\\bhola\\source\\repos\\imageupload\\imageupload\\controllers\\imguploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D2E7EF5-7F75-47F6-890C-DB5A21E7B5BB}|ImageUpload\\ImageUpload.csproj|solutionrelative:imageupload\\controllers\\imguploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D2E7EF5-7F75-47F6-890C-DB5A21E7B5BB}|ImageUpload\\ImageUpload.csproj|c:\\users\\bhola\\source\\repos\\imageupload\\imageupload\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "AbsoluteMoniker": "D:0:0:{3D2E7EF5-7F75-47F6-890C-DB5A21E7B5BB}|ImageUpload\\ImageUpload.csproj|C:\\Users\\bhola\\source\\repos\\ImageUpload\\imageupload\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
       "RelativeMoniker": "D:0:0:{3D2E7EF5-7F75-47F6-890C-DB5A21E7B5BB}|ImageUpload\\ImageUpload.csproj|solutionrelative:imageupload\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D2E7EF5-7F75-47F6-890C-DB5A21E7B5BB}|ImageUpload\\ImageUpload.csproj|c:\\users\\bhola\\source\\repos\\imageupload\\imageupload\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D2E7EF5-7F75-47F6-890C-DB5A21E7B5BB}|ImageUpload\\ImageUpload.csproj|C:\\Users\\bhola\\source\\repos\\ImageUpload\\imageupload\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D2E7EF5-7F75-47F6-890C-DB5A21E7B5BB}|ImageUpload\\ImageUpload.csproj|solutionrelative:imageupload\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,12 +46,11 @@
               "RelativeToolTip": "ImageUpload\\Global.asax.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAqwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T05:27:12.212Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-27T05:27:12.212Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "File.cs",
               "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\ImageUpload\\ImageUpload\\Models\\File.cs",
               "RelativeDocumentMoniker": "ImageUpload\\Models\\File.cs",
@@ -59,8 +58,7 @@
               "RelativeToolTip": "ImageUpload\\Models\\File.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T05:18:01.07Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-27T05:18:01.07Z"
             },
             {
               "$type": "Document",
@@ -71,25 +69,24 @@
               "ToolTip": "C:\\Users\\bhola\\source\\repos\\ImageUpload\\ImageUpload\\Models\\Model1.edmx [Diagram1]",
               "RelativeToolTip": "ImageUpload\\Models\\Model1.edmx [Diagram1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2024-06-27T05:17:38.562Z",
-              "EditorCaption": " [Diagram1]"
+              "WhenOpened": "2024-06-27T05:17:38.562Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "ImgUploadController.cs",
               "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\ImageUpload\\ImageUpload\\Controllers\\ImgUploadController.cs",
               "RelativeDocumentMoniker": "ImageUpload\\Controllers\\ImgUploadController.cs",
               "ToolTip": "C:\\Users\\bhola\\source\\repos\\ImageUpload\\ImageUpload\\Controllers\\ImgUploadController.cs",
               "RelativeToolTip": "ImageUpload\\Controllers\\ImgUploadController.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAYwBQAAAAmAAAA",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwEAAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-27T05:04:18.588Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ImageUpload.cs",
               "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\ImageUpload\\ImageUpload\\Models\\ImageUpload.cs",
               "RelativeDocumentMoniker": "ImageUpload\\Models\\ImageUpload.cs",

@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bhola\\source\\repos\\OneToManyDynamic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3365F6A7-2198-4D5D-82BA-50048CB3E204}|OneToManyDynamic\\OneToManyDynamic.csproj|C:\\Users\\bhola\\source\\repos\\OneToManyDynamic\\onetomanydynamic\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3365F6A7-2198-4D5D-82BA-50048CB3E204}|OneToManyDynamic\\OneToManyDynamic.csproj|solutionrelative:onetomanydynamic\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3365F6A7-2198-4D5D-82BA-50048CB3E204}|OneToManyDynamic\\OneToManyDynamic.csproj|C:\\Users\\bhola\\source\\repos\\OneToManyDynamic\\onetomanydynamic\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3365F6A7-2198-4D5D-82BA-50048CB3E204}|OneToManyDynamic\\OneToManyDynamic.csproj|solutionrelative:onetomanydynamic\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3365F6A7-2198-4D5D-82BA-50048CB3E204}|OneToManyDynamic\\OneToManyDynamic.csproj|c:\\users\\bhola\\source\\repos\\onetomanydynamic\\onetomanydynamic\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3365F6A7-2198-4D5D-82BA-50048CB3E204}|OneToManyDynamic\\OneToManyDynamic.csproj|solutionrelative:onetomanydynamic\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3365F6A7-2198-4D5D-82BA-50048CB3E204}|OneToManyDynamic\\OneToManyDynamic.csproj|C:\\Users\\bhola\\source\\repos\\OneToManyDynamic\\onetomanydynamic\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3365F6A7-2198-4D5D-82BA-50048CB3E204}|OneToManyDynamic\\OneToManyDynamic.csproj|solutionrelative:onetomanydynamic\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3365F6A7-2198-4D5D-82BA-50048CB3E204}|OneToManyDynamic\\OneToManyDynamic.csproj|C:\\Users\\bhola\\source\\repos\\OneToManyDynamic\\onetomanydynamic\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3365F6A7-2198-4D5D-82BA-50048CB3E204}|OneToManyDynamic\\OneToManyDynamic.csproj|solutionrelative:onetomanydynamic\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3365F6A7-2198-4D5D-82BA-50048CB3E204}|OneToManyDynamic\\OneToManyDynamic.csproj|C:\\Users\\bhola\\source\\repos\\OneToManyDynamic\\onetomanydynamic\\models\\size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3365F6A7-2198-4D5D-82BA-50048CB3E204}|OneToManyDynamic\\OneToManyDynamic.csproj|solutionrelative:onetomanydynamic\\models\\size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3365F6A7-2198-4D5D-82BA-50048CB3E204}|OneToManyDynamic\\OneToManyDynamic.csproj|C:\\Users\\bhola\\source\\repos\\OneToManyDynamic\\onetomanydynamic\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3365F6A7-2198-4D5D-82BA-50048CB3E204}|OneToManyDynamic\\OneToManyDynamic.csproj|solutionrelative:onetomanydynamic\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3365F6A7-2198-4D5D-82BA-50048CB3E204}|OneToManyDynamic\\OneToManyDynamic.csproj|C:\\Users\\bhola\\source\\repos\\OneToManyDynamic\\onetomanydynamic\\models\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3365F6A7-2198-4D5D-82BA-50048CB3E204}|OneToManyDynamic\\OneToManyDynamic.csproj|solutionrelative:onetomanydynamic\\models\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\OneToManyDynamic\\OneToManyDynamic\\Views\\Home\\Delete.cshtml",
+              "RelativeDocumentMoniker": "OneToManyDynamic\\Views\\Home\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\OneToManyDynamic\\OneToManyDynamic\\Views\\Home\\Delete.cshtml",
+              "RelativeToolTip": "OneToManyDynamic\\Views\\Home\\Delete.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACoAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-14T07:46:16.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\OneToManyDynamic\\OneToManyDynamic\\Views\\Home\\Edit.cshtml",
+              "RelativeDocumentMoniker": "OneToManyDynamic\\Views\\Home\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\OneToManyDynamic\\OneToManyDynamic\\Views\\Home\\Edit.cshtml",
+              "RelativeToolTip": "OneToManyDynamic\\Views\\Home\\Edit.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAwB0AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-14T06:22:46.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Size.cs",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\OneToManyDynamic\\OneToManyDynamic\\Models\\Size.cs",
+              "RelativeDocumentMoniker": "OneToManyDynamic\\Models\\Size.cs",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\OneToManyDynamic\\OneToManyDynamic\\Models\\Size.cs",
+              "RelativeToolTip": "OneToManyDynamic\\Models\\Size.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T08:59:15.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\OneToManyDynamic\\OneToManyDynamic\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "OneToManyDynamic\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\OneToManyDynamic\\OneToManyDynamic\\Models\\Product.cs",
+              "RelativeToolTip": "OneToManyDynamic\\Models\\Product.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAvwB0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T08:55:42.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\OneToManyDynamic\\OneToManyDynamic\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "OneToManyDynamic\\Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\OneToManyDynamic\\OneToManyDynamic\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "OneToManyDynamic\\Views\\Home\\Create.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T07:41:06.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\OneToManyDynamic\\OneToManyDynamic\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "OneToManyDynamic\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\OneToManyDynamic\\OneToManyDynamic\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "OneToManyDynamic\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwB8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T07:19:09.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\OneToManyDynamic\\OneToManyDynamic\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "OneToManyDynamic\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\OneToManyDynamic\\OneToManyDynamic\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "OneToManyDynamic\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T07:23:56.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Model1.Context.cs",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\OneToManyDynamic\\OneToManyDynamic\\Models\\Model1.Context.cs",
+              "RelativeDocumentMoniker": "OneToManyDynamic\\Models\\Model1.Context.cs",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\OneToManyDynamic\\OneToManyDynamic\\Models\\Model1.Context.cs",
+              "RelativeToolTip": "OneToManyDynamic\\Models\\Model1.Context.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T07:18:06.965Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

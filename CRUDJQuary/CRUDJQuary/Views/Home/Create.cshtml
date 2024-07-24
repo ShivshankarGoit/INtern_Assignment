@@ -34,9 +34,9 @@
         @Html.ValidationMessageFor(model => model.Country, "", new { @class = "text-danger" })
     </div>
 </div>
-<button id="saveProduct">Save</button>
-<a href="@Url.Action("Index")">Back to List</a>
+<button id="saveProduct" class="btn btn-primary">Save</button>
 
+<a href="@Url.Action("Index" )" class="btn btn-primary">Back to List</a>
 @section scripts {
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script>

@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bhola\\source\\repos\\FileUploadOneToMany\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0739A9-BD36-4854-A19A-E61D10187630}|FileUploadOneToMany\\FileUploadOneToMany.csproj|c:\\users\\bhola\\source\\repos\\fileuploadonetomany\\fileuploadonetomany\\controllers\\productfilescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0739A9-BD36-4854-A19A-E61D10187630}|FileUploadOneToMany\\FileUploadOneToMany.csproj|solutionrelative:fileuploadonetomany\\controllers\\productfilescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0739A9-BD36-4854-A19A-E61D10187630}|FileUploadOneToMany\\FileUploadOneToMany.csproj|c:\\users\\bhola\\source\\repos\\fileuploadonetomany\\fileuploadonetomany\\views\\productfiles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D0739A9-BD36-4854-A19A-E61D10187630}|FileUploadOneToMany\\FileUploadOneToMany.csproj|solutionrelative:fileuploadonetomany\\views\\productfiles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0739A9-BD36-4854-A19A-E61D10187630}|FileUploadOneToMany\\FileUploadOneToMany.csproj|c:\\users\\bhola\\source\\repos\\fileuploadonetomany\\fileuploadonetomany\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0739A9-BD36-4854-A19A-E61D10187630}|FileUploadOneToMany\\FileUploadOneToMany.csproj|solutionrelative:fileuploadonetomany\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0739A9-BD36-4854-A19A-E61D10187630}|FileUploadOneToMany\\FileUploadOneToMany.csproj|c:\\users\\bhola\\source\\repos\\fileuploadonetomany\\fileuploadonetomany\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0739A9-BD36-4854-A19A-E61D10187630}|FileUploadOneToMany\\FileUploadOneToMany.csproj|solutionrelative:fileuploadonetomany\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0739A9-BD36-4854-A19A-E61D10187630}|FileUploadOneToMany\\FileUploadOneToMany.csproj|c:\\users\\bhola\\source\\repos\\fileuploadonetomany\\fileuploadonetomany\\models\\productfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0739A9-BD36-4854-A19A-E61D10187630}|FileUploadOneToMany\\FileUploadOneToMany.csproj|solutionrelative:fileuploadonetomany\\models\\productfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0739A9-BD36-4854-A19A-E61D10187630}|FileUploadOneToMany\\FileUploadOneToMany.csproj|c:\\users\\bhola\\source\\repos\\fileuploadonetomany\\fileuploadonetomany\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D0739A9-BD36-4854-A19A-E61D10187630}|FileUploadOneToMany\\FileUploadOneToMany.csproj|solutionrelative:fileuploadonetomany\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0739A9-BD36-4854-A19A-E61D10187630}|FileUploadOneToMany\\FileUploadOneToMany.csproj|c:\\users\\bhola\\source\\repos\\fileuploadonetomany\\fileuploadonetomany\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{5D0739A9-BD36-4854-A19A-E61D10187630}|FileUploadOneToMany\\FileUploadOneToMany.csproj|solutionrelative:fileuploadonetomany\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\FileUploadOneToMany\\FileUploadOneToMany\\Views\\ProductFiles\\Index.cshtml",
+              "RelativeDocumentMoniker": "FileUploadOneToMany\\Views\\ProductFiles\\Index.cshtml",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\FileUploadOneToMany\\FileUploadOneToMany\\Views\\ProductFiles\\Index.cshtml",
+              "RelativeToolTip": "FileUploadOneToMany\\Views\\ProductFiles\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-14T15:47:43.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductFilesController.cs",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\FileUploadOneToMany\\FileUploadOneToMany\\Controllers\\ProductFilesController.cs",
+              "RelativeDocumentMoniker": "FileUploadOneToMany\\Controllers\\ProductFilesController.cs",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\FileUploadOneToMany\\FileUploadOneToMany\\Controllers\\ProductFilesController.cs",
+              "RelativeToolTip": "FileUploadOneToMany\\Controllers\\ProductFilesController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwIYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T15:44:54.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\FileUploadOneToMany\\FileUploadOneToMany\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "FileUploadOneToMany\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\FileUploadOneToMany\\FileUploadOneToMany\\Models\\Product.cs",
+              "RelativeToolTip": "FileUploadOneToMany\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswAQAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T15:17:02.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductFile.cs",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\FileUploadOneToMany\\FileUploadOneToMany\\Models\\ProductFile.cs",
+              "RelativeDocumentMoniker": "FileUploadOneToMany\\Models\\ProductFile.cs",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\FileUploadOneToMany\\FileUploadOneToMany\\Models\\ProductFile.cs",
+              "RelativeToolTip": "FileUploadOneToMany\\Models\\ProductFile.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T12:26:01.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\FileUploadOneToMany\\FileUploadOneToMany\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "FileUploadOneToMany\\Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\FileUploadOneToMany\\FileUploadOneToMany\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "FileUploadOneToMany\\Views\\Home\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-14T15:07:08.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\FileUploadOneToMany\\FileUploadOneToMany\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FileUploadOneToMany\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\FileUploadOneToMany\\FileUploadOneToMany\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FileUploadOneToMany\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T12:08:36.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\FileUploadOneToMany\\FileUploadOneToMany\\Models\\Model1.edmx",
+              "RelativeDocumentMoniker": "FileUploadOneToMany\\Models\\Model1.edmx",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\FileUploadOneToMany\\FileUploadOneToMany\\Models\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "FileUploadOneToMany\\Models\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-07-14T12:06:42.739Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

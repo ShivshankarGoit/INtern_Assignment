@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ProductionModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="UserFile">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FileName" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="FilePath" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="UserId" Type="Int32" />
+    <NavigationProperty Name="User" Relationship="Self.FK__UserFiles__UserI__5EBF139D" FromRole="UserFiles" ToRole="Users" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="UserFiles" Relationship="Self.FK__UserFiles__UserI__5EBF139D" FromRole="Users" ToRole="UserFiles" />
+  </EntityType>
+  <Association Name="FK__UserFiles__UserI__5EBF139D">
+    <End Role="Users" Type="Self.User" Multiplicity="0..1" />
+    <End Role="UserFiles" Type="Self.UserFile" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="UserFiles">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="ProductionEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="UserFiles" EntityType="Self.UserFile" />
+    <EntitySet Name="Users" EntityType="Self.User" />
+    <AssociationSet Name="FK__UserFiles__UserI__5EBF139D" Association="Self.FK__UserFiles__UserI__5EBF139D">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="UserFiles" EntitySet="UserFiles" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

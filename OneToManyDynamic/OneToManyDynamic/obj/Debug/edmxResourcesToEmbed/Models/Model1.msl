@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="studentModelStoreContainer" CdmEntityContainer="studentEntities">
+    <EntitySetMapping Name="courses">
+      <EntityTypeMapping TypeName="studentModel.course">
+        <MappingFragment StoreEntitySet="course">
+          <ScalarProperty Name="course_id" ColumnName="course_id" />
+          <ScalarProperty Name="course_name" ColumnName="course_name" />
+          <ScalarProperty Name="student_id" ColumnName="student_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="StudentDetails">
+      <EntityTypeMapping TypeName="studentModel.StudentDetail">
+        <MappingFragment StoreEntitySet="StudentDetail">
+          <ScalarProperty Name="student_id" ColumnName="student_id" />
+          <ScalarProperty Name="student_name" ColumnName="student_name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Products">
+      <EntityTypeMapping TypeName="studentModel.Product">
+        <MappingFragment StoreEntitySet="Product">
+          <ScalarProperty Name="DeActive" ColumnName="DeActive" />
+          <ScalarProperty Name="Acive" ColumnName="Acive" />
+          <ScalarProperty Name="description" ColumnName="description" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Sizes">
+      <EntityTypeMapping TypeName="studentModel.Size">
+        <MappingFragment StoreEntitySet="Size">
+          <ScalarProperty Name="PId" ColumnName="PId" />
+          <ScalarProperty Name="Prict" ColumnName="Prict" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

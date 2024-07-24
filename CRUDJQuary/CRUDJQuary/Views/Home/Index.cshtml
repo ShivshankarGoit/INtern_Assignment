@@ -5,7 +5,8 @@
 <div class="container">
     <h2>Users Record</h2>
     <p>
-        @Html.ActionLink("Create New", "Create")
+        @Html.ActionLink("Create New", "Create", null, new { @class = "btn btn-primary" })
+
     </p>
     <table class="table table-bordered table-hover">
         <thead>
@@ -38,9 +39,10 @@
                     <td>@product.State</td>
                     <td>@product.Country</td>
                     <td>
-                        @Html.ActionLink("Edit", "Update", new { id = product.EmployeeId }) |
+                        @Html.ActionLink("Edit", "Update", new { id = product.EmployeeId }, new { @class = "btn btn-primary" })
                         |
-                        @Html.ActionLink("Delete", "Delete", new { id = product.EmployeeId })
+                        |
+                        @Html.ActionLink("Delete", "Delete", new { id = product.EmployeeId }, new { @class = "btn btn-primary" })
                     </td>
                 </tr>
             }

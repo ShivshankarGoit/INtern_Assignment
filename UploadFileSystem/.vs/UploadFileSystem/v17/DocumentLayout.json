@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bhola\\source\\repos\\UploadFileSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{693C3AA6-8502-41CB-8F1D-A5BBE843CABF}|UploadFileSystem\\UploadFileSystem.csproj|c:\\users\\bhola\\source\\repos\\uploadfilesystem\\uploadfilesystem\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{693C3AA6-8502-41CB-8F1D-A5BBE843CABF}|UploadFileSystem\\UploadFileSystem.csproj|solutionrelative:uploadfilesystem\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{693C3AA6-8502-41CB-8F1D-A5BBE843CABF}|UploadFileSystem\\UploadFileSystem.csproj|c:\\users\\bhola\\source\\repos\\uploadfilesystem\\uploadfilesystem\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{693C3AA6-8502-41CB-8F1D-A5BBE843CABF}|UploadFileSystem\\UploadFileSystem.csproj|solutionrelative:uploadfilesystem\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{693C3AA6-8502-41CB-8F1D-A5BBE843CABF}|UploadFileSystem\\UploadFileSystem.csproj|C:\\Users\\bhola\\source\\repos\\UploadFileSystem\\uploadfilesystem\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{693C3AA6-8502-41CB-8F1D-A5BBE843CABF}|UploadFileSystem\\UploadFileSystem.csproj|solutionrelative:uploadfilesystem\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{693C3AA6-8502-41CB-8F1D-A5BBE843CABF}|UploadFileSystem\\UploadFileSystem.csproj|C:\\Users\\bhola\\source\\repos\\UploadFileSystem\\uploadfilesystem\\views\\user\\upload.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{693C3AA6-8502-41CB-8F1D-A5BBE843CABF}|UploadFileSystem\\UploadFileSystem.csproj|solutionrelative:uploadfilesystem\\views\\user\\upload.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{693C3AA6-8502-41CB-8F1D-A5BBE843CABF}|UploadFileSystem\\UploadFileSystem.csproj|C:\\Users\\bhola\\source\\repos\\UploadFileSystem\\uploadfilesystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{693C3AA6-8502-41CB-8F1D-A5BBE843CABF}|UploadFileSystem\\UploadFileSystem.csproj|solutionrelative:uploadfilesystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{693C3AA6-8502-41CB-8F1D-A5BBE843CABF}|UploadFileSystem\\UploadFileSystem.csproj|C:\\Users\\bhola\\source\\repos\\UploadFileSystem\\uploadfilesystem\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{693C3AA6-8502-41CB-8F1D-A5BBE843CABF}|UploadFileSystem\\UploadFileSystem.csproj|solutionrelative:uploadfilesystem\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{693C3AA6-8502-41CB-8F1D-A5BBE843CABF}|UploadFileSystem\\UploadFileSystem.csproj|C:\\Users\\bhola\\source\\repos\\UploadFileSystem\\uploadfilesystem\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{693C3AA6-8502-41CB-8F1D-A5BBE843CABF}|UploadFileSystem\\UploadFileSystem.csproj|solutionrelative:uploadfilesystem\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{693C3AA6-8502-41CB-8F1D-A5BBE843CABF}|UploadFileSystem\\UploadFileSystem.csproj|C:\\Users\\bhola\\source\\repos\\UploadFileSystem\\uploadfilesystem\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{693C3AA6-8502-41CB-8F1D-A5BBE843CABF}|UploadFileSystem\\UploadFileSystem.csproj|solutionrelative:uploadfilesystem\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{693C3AA6-8502-41CB-8F1D-A5BBE843CABF}|UploadFileSystem\\UploadFileSystem.csproj|C:\\Users\\bhola\\source\\repos\\UploadFileSystem\\uploadfilesystem\\models\\userfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{693C3AA6-8502-41CB-8F1D-A5BBE843CABF}|UploadFileSystem\\UploadFileSystem.csproj|solutionrelative:uploadfilesystem\\models\\userfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{693C3AA6-8502-41CB-8F1D-A5BBE843CABF}|UploadFileSystem\\UploadFileSystem.csproj|C:\\Users\\bhola\\source\\repos\\UploadFileSystem\\uploadfilesystem\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{693C3AA6-8502-41CB-8F1D-A5BBE843CABF}|UploadFileSystem\\UploadFileSystem.csproj|solutionrelative:uploadfilesystem\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{693C3AA6-8502-41CB-8F1D-A5BBE843CABF}|UploadFileSystem\\UploadFileSystem.csproj|C:\\Users\\bhola\\source\\repos\\UploadFileSystem\\uploadfilesystem\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{693C3AA6-8502-41CB-8F1D-A5BBE843CABF}|UploadFileSystem\\UploadFileSystem.csproj|solutionrelative:uploadfilesystem\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\UploadFileSystem\\UploadFileSystem\\Views\\Web.config",
+              "RelativeDocumentMoniker": "UploadFileSystem\\Views\\Web.config",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\UploadFileSystem\\UploadFileSystem\\Views\\Web.config",
+              "RelativeToolTip": "UploadFileSystem\\Views\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-22T07:13:31.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\UploadFileSystem\\UploadFileSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "UploadFileSystem\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\UploadFileSystem\\UploadFileSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "UploadFileSystem\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAADNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-16T07:21:23.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\UploadFileSystem\\UploadFileSystem\\Views\\User\\Delete.cshtml",
+              "RelativeDocumentMoniker": "UploadFileSystem\\Views\\User\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\UploadFileSystem\\UploadFileSystem\\Views\\User\\Delete.cshtml",
+              "RelativeToolTip": "UploadFileSystem\\Views\\User\\Delete.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-16T06:23:56.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserFile.cs",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\UploadFileSystem\\UploadFileSystem\\Models\\UserFile.cs",
+              "RelativeDocumentMoniker": "UploadFileSystem\\Models\\UserFile.cs",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\UploadFileSystem\\UploadFileSystem\\Models\\UserFile.cs",
+              "RelativeToolTip": "UploadFileSystem\\Models\\UserFile.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAArwBgAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T12:00:44.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\UploadFileSystem\\UploadFileSystem\\Views\\User\\Edit.cshtml",
+              "RelativeDocumentMoniker": "UploadFileSystem\\Views\\User\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\UploadFileSystem\\UploadFileSystem\\Views\\User\\Edit.cshtml",
+              "RelativeToolTip": "UploadFileSystem\\Views\\User\\Edit.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADoAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-15T07:28:20.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Upload.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\UploadFileSystem\\UploadFileSystem\\Views\\User\\Upload.cshtml",
+              "RelativeDocumentMoniker": "UploadFileSystem\\Views\\User\\Upload.cshtml",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\UploadFileSystem\\UploadFileSystem\\Views\\User\\Upload.cshtml",
+              "RelativeToolTip": "UploadFileSystem\\Views\\User\\Upload.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-15T05:09:08.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\UploadFileSystem\\UploadFileSystem\\Views\\User\\Create.cshtml",
+              "RelativeDocumentMoniker": "UploadFileSystem\\Views\\User\\Create.cshtml",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\UploadFileSystem\\UploadFileSystem\\Views\\User\\Create.cshtml",
+              "RelativeToolTip": "UploadFileSystem\\Views\\User\\Create.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-15T05:03:06.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\UploadFileSystem\\UploadFileSystem\\Views\\User\\Details.cshtml",
+              "RelativeDocumentMoniker": "UploadFileSystem\\Views\\User\\Details.cshtml",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\UploadFileSystem\\UploadFileSystem\\Views\\User\\Details.cshtml",
+              "RelativeToolTip": "UploadFileSystem\\Views\\User\\Details.cshtml",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAwEIAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-15T05:00:11.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\UploadFileSystem\\UploadFileSystem\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "UploadFileSystem\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\UploadFileSystem\\UploadFileSystem\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "UploadFileSystem\\Views\\User\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-15T04:58:13.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\UploadFileSystem\\UploadFileSystem\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "UploadFileSystem\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\UploadFileSystem\\UploadFileSystem\\Controllers\\UserController.cs",
+              "RelativeToolTip": "UploadFileSystem\\Controllers\\UserController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAEwEQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T04:51:04.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\UploadFileSystem\\UploadFileSystem\\Models\\Model1.edmx",
+              "RelativeDocumentMoniker": "UploadFileSystem\\Models\\Model1.edmx",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\UploadFileSystem\\UploadFileSystem\\Models\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "UploadFileSystem\\Models\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-07-15T04:49:04.954Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

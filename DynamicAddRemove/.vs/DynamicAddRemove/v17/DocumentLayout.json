@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bhola\\source\\repos\\DynamicAddRemove\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A38F24F9-7E6D-413C-99CC-B095C1BFF8E8}|DynamicAddRemove\\DynamicAddRemove.csproj|c:\\users\\bhola\\source\\repos\\dynamicaddremove\\dynamicaddremove\\views\\home\\multipleedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A38F24F9-7E6D-413C-99CC-B095C1BFF8E8}|DynamicAddRemove\\DynamicAddRemove.csproj|solutionrelative:dynamicaddremove\\views\\home\\multipleedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38F24F9-7E6D-413C-99CC-B095C1BFF8E8}|DynamicAddRemove\\DynamicAddRemove.csproj|C:\\Users\\bhola\\source\\repos\\DynamicAddRemove\\dynamicaddremove\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A38F24F9-7E6D-413C-99CC-B095C1BFF8E8}|DynamicAddRemove\\DynamicAddRemove.csproj|solutionrelative:dynamicaddremove\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38F24F9-7E6D-413C-99CC-B095C1BFF8E8}|DynamicAddRemove\\DynamicAddRemove.csproj|C:\\Users\\bhola\\source\\repos\\DynamicAddRemove\\dynamicaddremove\\views\\home\\multipledelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A38F24F9-7E6D-413C-99CC-B095C1BFF8E8}|DynamicAddRemove\\DynamicAddRemove.csproj|solutionrelative:dynamicaddremove\\views\\home\\multipledelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38F24F9-7E6D-413C-99CC-B095C1BFF8E8}|DynamicAddRemove\\DynamicAddRemove.csproj|C:\\Users\\bhola\\source\\repos\\DynamicAddRemove\\dynamicaddremove\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A38F24F9-7E6D-413C-99CC-B095C1BFF8E8}|DynamicAddRemove\\DynamicAddRemove.csproj|solutionrelative:dynamicaddremove\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38F24F9-7E6D-413C-99CC-B095C1BFF8E8}|DynamicAddRemove\\DynamicAddRemove.csproj|C:\\Users\\bhola\\source\\repos\\DynamicAddRemove\\dynamicaddremove\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A38F24F9-7E6D-413C-99CC-B095C1BFF8E8}|DynamicAddRemove\\DynamicAddRemove.csproj|solutionrelative:dynamicaddremove\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38F24F9-7E6D-413C-99CC-B095C1BFF8E8}|DynamicAddRemove\\DynamicAddRemove.csproj|C:\\Users\\bhola\\source\\repos\\DynamicAddRemove\\dynamicaddremove\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A38F24F9-7E6D-413C-99CC-B095C1BFF8E8}|DynamicAddRemove\\DynamicAddRemove.csproj|solutionrelative:dynamicaddremove\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38F24F9-7E6D-413C-99CC-B095C1BFF8E8}|DynamicAddRemove\\DynamicAddRemove.csproj|C:\\Users\\bhola\\source\\repos\\DynamicAddRemove\\dynamicaddremove\\views\\home\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A38F24F9-7E6D-413C-99CC-B095C1BFF8E8}|DynamicAddRemove\\DynamicAddRemove.csproj|solutionrelative:dynamicaddremove\\views\\home\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38F24F9-7E6D-413C-99CC-B095C1BFF8E8}|DynamicAddRemove\\DynamicAddRemove.csproj|C:\\Users\\bhola\\source\\repos\\DynamicAddRemove\\dynamicaddremove\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{A38F24F9-7E6D-413C-99CC-B095C1BFF8E8}|DynamicAddRemove\\DynamicAddRemove.csproj|solutionrelative:dynamicaddremove\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38F24F9-7E6D-413C-99CC-B095C1BFF8E8}|DynamicAddRemove\\DynamicAddRemove.csproj|C:\\Users\\bhola\\source\\repos\\DynamicAddRemove\\dynamicaddremove\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A38F24F9-7E6D-413C-99CC-B095C1BFF8E8}|DynamicAddRemove\\DynamicAddRemove.csproj|solutionrelative:dynamicaddremove\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MultipleDelete.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\DynamicAddRemove\\DynamicAddRemove\\Views\\Home\\MultipleDelete.cshtml",
+              "RelativeDocumentMoniker": "DynamicAddRemove\\Views\\Home\\MultipleDelete.cshtml",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\DynamicAddRemove\\DynamicAddRemove\\Views\\Home\\MultipleDelete.cshtml",
+              "RelativeToolTip": "DynamicAddRemove\\Views\\Home\\MultipleDelete.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAB5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T04:58:02.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MultipleEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\DynamicAddRemove\\DynamicAddRemove\\Views\\Home\\MultipleEdit.cshtml",
+              "RelativeDocumentMoniker": "DynamicAddRemove\\Views\\Home\\MultipleEdit.cshtml",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\DynamicAddRemove\\DynamicAddRemove\\Views\\Home\\MultipleEdit.cshtml",
+              "RelativeToolTip": "DynamicAddRemove\\Views\\Home\\MultipleEdit.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T09:20:40.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\DynamicAddRemove\\DynamicAddRemove\\Views\\Home\\Delete.cshtml",
+              "RelativeDocumentMoniker": "DynamicAddRemove\\Views\\Home\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\DynamicAddRemove\\DynamicAddRemove\\Views\\Home\\Delete.cshtml",
+              "RelativeToolTip": "DynamicAddRemove\\Views\\Home\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T07:08:00.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\DynamicAddRemove\\DynamicAddRemove\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DynamicAddRemove\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\DynamicAddRemove\\DynamicAddRemove\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DynamicAddRemove\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T06:06:42.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\DynamicAddRemove\\DynamicAddRemove\\Views\\Home\\Update.cshtml",
+              "RelativeDocumentMoniker": "DynamicAddRemove\\Views\\Home\\Update.cshtml",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\DynamicAddRemove\\DynamicAddRemove\\Views\\Home\\Update.cshtml",
+              "RelativeToolTip": "DynamicAddRemove\\Views\\Home\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T16:51:34.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\DynamicAddRemove\\DynamicAddRemove\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "DynamicAddRemove\\Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\DynamicAddRemove\\DynamicAddRemove\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "DynamicAddRemove\\Views\\Home\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T09:15:54.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\DynamicAddRemove\\DynamicAddRemove\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DynamicAddRemove\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\DynamicAddRemove\\DynamicAddRemove\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DynamicAddRemove\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T07:19:14.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\DynamicAddRemove\\DynamicAddRemove\\Models\\Model1.edmx",
+              "RelativeDocumentMoniker": "DynamicAddRemove\\Models\\Model1.edmx",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\DynamicAddRemove\\DynamicAddRemove\\Models\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "DynamicAddRemove\\Models\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-07-09T07:17:27.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\DynamicAddRemove\\DynamicAddRemove\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DynamicAddRemove\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\DynamicAddRemove\\DynamicAddRemove\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DynamicAddRemove\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwD4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T07:18:40.599Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

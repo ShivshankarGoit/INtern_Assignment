@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\bhola\\source\\repos\\FileUploadPurpose\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FFEE416A-2284-453E-B811-3EE873BF398B}|FileUploadPurpose\\FileUploadPurpose.csproj|C:\\Users\\bhola\\source\\repos\\FileUploadPurpose\\fileuploadpurpose\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{FFEE416A-2284-453E-B811-3EE873BF398B}|FileUploadPurpose\\FileUploadPurpose.csproj|C:\\Users\\bhola\\source\\repos\\FileUploadPurpose\\fileuploadpurpose\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFEE416A-2284-453E-B811-3EE873BF398B}|FileUploadPurpose\\FileUploadPurpose.csproj|solutionrelative:fileuploadpurpose\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFEE416A-2284-453E-B811-3EE873BF398B}|FileUploadPurpose\\FileUploadPurpose.csproj|c:\\users\\bhola\\source\\repos\\fileuploadpurpose\\fileuploadpurpose\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FFEE416A-2284-453E-B811-3EE873BF398B}|FileUploadPurpose\\FileUploadPurpose.csproj|solutionrelative:fileuploadpurpose\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FFEE416A-2284-453E-B811-3EE873BF398B}|FileUploadPurpose\\FileUploadPurpose.csproj|C:\\Users\\bhola\\source\\repos\\FileUploadPurpose\\fileuploadpurpose\\views\\home\\upload.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FFEE416A-2284-453E-B811-3EE873BF398B}|FileUploadPurpose\\FileUploadPurpose.csproj|solutionrelative:fileuploadpurpose\\views\\home\\upload.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FFEE416A-2284-453E-B811-3EE873BF398B}|FileUploadPurpose\\FileUploadPurpose.csproj|c:\\users\\bhola\\source\\repos\\fileuploadpurpose\\fileuploadpurpose\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FFEE416A-2284-453E-B811-3EE873BF398B}|FileUploadPurpose\\FileUploadPurpose.csproj|solutionrelative:fileuploadpurpose\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,7 +30,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Upload.cshtml",
               "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\FileUploadPurpose\\FileUploadPurpose\\Views\\Home\\Upload.cshtml",
               "RelativeDocumentMoniker": "FileUploadPurpose\\Views\\Home\\Upload.cshtml",
@@ -38,12 +38,11 @@
               "RelativeToolTip": "FileUploadPurpose\\Views\\Home\\Upload.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-27T11:51:17.224Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-27T11:51:17.224Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\FileUploadPurpose\\FileUploadPurpose\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "FileUploadPurpose\\Views\\Home\\Index.cshtml",
@@ -56,13 +55,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\FileUploadPurpose\\FileUploadPurpose\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "FileUploadPurpose\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\bhola\\source\\repos\\FileUploadPurpose\\FileUploadPurpose\\Controllers\\HomeController.cs",
               "RelativeToolTip": "FileUploadPurpose\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAAeAAAA",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwA0AAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-27T11:33:22.465Z",
               "EditorCaption": ""

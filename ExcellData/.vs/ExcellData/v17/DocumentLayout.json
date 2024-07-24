@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bhola\\source\\repos\\ExcellData\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72967A82-F2CD-4FDB-A036-928EE4758121}|ExcellData\\ExcellData.csproj|C:\\Users\\bhola\\source\\repos\\ExcellData\\excelldata\\views\\home\\upload.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72967A82-F2CD-4FDB-A036-928EE4758121}|ExcellData\\ExcellData.csproj|solutionrelative:excelldata\\views\\home\\upload.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72967A82-F2CD-4FDB-A036-928EE4758121}|ExcellData\\ExcellData.csproj|C:\\Users\\bhola\\source\\repos\\ExcellData\\excelldata\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72967A82-F2CD-4FDB-A036-928EE4758121}|ExcellData\\ExcellData.csproj|solutionrelative:excelldata\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72967A82-F2CD-4FDB-A036-928EE4758121}|ExcellData\\ExcellData.csproj|C:\\Users\\bhola\\source\\repos\\ExcellData\\excelldata\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72967A82-F2CD-4FDB-A036-928EE4758121}|ExcellData\\ExcellData.csproj|solutionrelative:excelldata\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72967A82-F2CD-4FDB-A036-928EE4758121}|ExcellData\\ExcellData.csproj|c:\\users\\bhola\\source\\repos\\excelldata\\excelldata\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72967A82-F2CD-4FDB-A036-928EE4758121}|ExcellData\\ExcellData.csproj|solutionrelative:excelldata\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72967A82-F2CD-4FDB-A036-928EE4758121}|ExcellData\\ExcellData.csproj|C:\\Users\\bhola\\source\\repos\\ExcellData\\excelldata\\models\\excellsheet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72967A82-F2CD-4FDB-A036-928EE4758121}|ExcellData\\ExcellData.csproj|solutionrelative:excelldata\\models\\excellsheet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72967A82-F2CD-4FDB-A036-928EE4758121}|ExcellData\\ExcellData.csproj|C:\\Users\\bhola\\source\\repos\\ExcellData\\excelldata\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{72967A82-F2CD-4FDB-A036-928EE4758121}|ExcellData\\ExcellData.csproj|solutionrelative:excelldata\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\ExcellData\\ExcellData\\Global.asax.cs",
+              "RelativeDocumentMoniker": "ExcellData\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\ExcellData\\ExcellData\\Global.asax.cs",
+              "RelativeToolTip": "ExcellData\\Global.asax.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T11:39:25.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "excellSheet.cs",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\ExcellData\\ExcellData\\Models\\excellSheet.cs",
+              "RelativeDocumentMoniker": "ExcellData\\Models\\excellSheet.cs",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\ExcellData\\ExcellData\\Models\\excellSheet.cs",
+              "RelativeToolTip": "ExcellData\\Models\\excellSheet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T09:50:01.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Upload.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\ExcellData\\ExcellData\\Views\\Home\\Upload.cshtml",
+              "RelativeDocumentMoniker": "ExcellData\\Views\\Home\\Upload.cshtml",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\ExcellData\\ExcellData\\Views\\Home\\Upload.cshtml",
+              "RelativeToolTip": "ExcellData\\Views\\Home\\Upload.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-16T09:54:44.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\ExcellData\\ExcellData\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ExcellData\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\ExcellData\\ExcellData\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ExcellData\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-16T09:52:39.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\ExcellData\\ExcellData\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ExcellData\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\ExcellData\\ExcellData\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ExcellData\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAADMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T09:41:58.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\ExcellData\\ExcellData\\Models\\Model1.edmx",
+              "RelativeDocumentMoniker": "ExcellData\\Models\\Model1.edmx",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\ExcellData\\ExcellData\\Models\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "ExcellData\\Models\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-07-16T09:40:26.212Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

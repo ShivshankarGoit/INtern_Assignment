@@ -17,6 +17,9 @@ namespace OneToMany.Controllers
         {
             return View( _context.StudentDetails.ToList());
         }
+
+
+
         public ActionResult Create()
         {
            
